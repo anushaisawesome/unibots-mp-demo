@@ -2,8 +2,8 @@
 <br><br>
 <b>then run these in a new terminal (mac) </b>
 <br><br>
-``` python3 -m venv mp_env```
+```python3 -m venv mp_env```
 <br> ```source mp_env/bin/activate```
 <br>```python -m pip install mediapipe opencv-python```
-<br>
-<br><b>get rid of webcam window with ESC key </b>
+<br>```python ~/Desktop/unibots-mp-demo/mp-demo.py (or whatever the filepath is for you)```
+<br><br><br><b>get rid of webcam window with ESC key </b>
