@@ -6,3 +6,4 @@
 <br> ```source mp_env/bin/activate```
 <br>```python -m pip install mediapipe opencv-python```
 <br>
+<br><b>get rid of webcam window with ESC key </b>
