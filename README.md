@@ -1,4 +1,6 @@
-<b>run these in a new terminal first (mac) </b>
+<b><u>remember to change the path on line 8 of mp-demo.py to whatever your filepath to the model is first!!!</u></b>
+<br>
+<b>then run these in a new terminal (mac) </b>
 <br><br>
 ``` python3 -m venv mp_env```
 <br> ```source mp_env/bin/activate```
